@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Anuragb8.png" alt="Anurag-Extra-FeaturesLogo">
+  <img src="assets/ADGFilterV2.png" alt="ADGFilterV2">
 </p>
 <h1 align="center">
   <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
