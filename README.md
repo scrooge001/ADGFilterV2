@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/ADGFilterV2.png" alt="ADGFilterV2">
+  <img src="assets/anurag.png" alt="ADGFilterV2">
 </p>
 <h1 align="center">
-  <b>𝙰NURAG-𝙴𝚇𝚃𝚁𝙰-𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂</b>
+  <b>ADGFilterV2</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
