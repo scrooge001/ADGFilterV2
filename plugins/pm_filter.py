@@ -749,7 +749,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/asiandramagroup1')
+            InlineKeyboardButton('💠 MOVIE GROUP 💠', url='https://t.me/asiandramagroup1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
