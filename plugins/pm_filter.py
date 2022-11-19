@@ -749,18 +749,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
-            ],[
-            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='https://t.me/FileTo_Link_RoBot')
+            InlineKeyboardButton('💠 Movies 💠', url='https://t.me/asiandramagroup1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
+            InlineKeyboardButton('✅ How To Search ✅', url='https://www.youtube.com/watch?v=w9CivZ0bX7U&feature=youtu.be')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1525,4 +1519,3 @@ async def manual_filters(client, message, text=False):
     else:
         return False
 
-#ᎯℕUℛᎯᎶ
