@@ -43,18 +43,12 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
-            ],[
-            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='http://t.me/FileTo_Link_RoBot')
+            InlineKeyboardButton('💠 MOVIE GROUP 💠', url='https://t.me/asiandramagroup1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://www.youtube.com/channel/UCUaQmHWzadWh8WLtUF_ARoA')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -93,18 +87,12 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('🔥 SΞΛᏒCH HΞᏒΞ 🔥', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/MOVIES_ZILAA'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/sources_cods')
-            ],[
-            InlineKeyboardButton('🔥 LIИK GΞИΞᏒΛTOᏒ 🔥', url='http://t.me/FileTo_Link_RoBot')
+            InlineKeyboardButton('💠 MOVIE GROUP 💠', url='https://t.me/asiandramagroup1')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('👑 ᖴᗩCΞᗷOOK 👑', url='https://www.facebook.com/anurag.maheswari.925'),
-            InlineKeyboardButton('🥇 IИSTΛGᏒΛM 🥇', url='https://www.instagram.com/anuragmaheshwari_official')
-            ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://www.youtube.com/channel/UCUaQmHWzadWh8WLtUF_ARoA')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
